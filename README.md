@@ -1,6 +1,6 @@
 # Essential 8 Group Policy Templates 
 
-These Group Policy Objects (GPOs) were created to assist organisations comply with the [Australian Cyber Security Centre's (ACSC) Essential 8 Controls](https://www.cyber.gov.au/acsc/view-all-content/publications/essential-eight-maturity-model). The GPOs can be imported into an Active Directory Domain Services (AD) environment for testing and deployment. The current package include GPOs to assist organisations comply with Essential 8 (E8) Maturity Level 1 for 'Configure Microsoft Office macro settings' and 'User application hardening'  based on the Maturity requirements as of January 2023.  
+These Group Policy Objects (GPOs) were created to accelerate organisations implementing the [Australian Cyber Security Centre's (ACSC) Essential 8 Controls](https://www.cyber.gov.au/acsc/view-all-content/publications/essential-eight-maturity-model). The GPOs can be imported into an Active Directory Domain Services (AD) environment for testing and deployment. The current package include GPOs to assist organisations comply with Essential 8 (E8) Maturity Level 1 for 'Configure Microsoft Office macro settings' and 'User application hardening'  based on the Maturity requirements as of January 2023.  
 
 This package includes:
 * Configure Microsoft Office macro settings (Maturity Level 1)
