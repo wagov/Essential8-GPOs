@@ -1,0 +1,11 @@
+<site-list version="2">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>10/14/2022 07:28:10</date-created>
+  </created-by>
+  <site url="contoso.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+</site-list>
