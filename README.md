@@ -70,7 +70,7 @@ There are 10 Group Policy Objects and a script used to import the GPOs.
 	  * Gateway or Proxy Filtering
 	  * DNS Filtering
 	  * Endpoint Solutions
-	  * Browser based third-party add-ons such as uBlock or Ad Block plus.  
+	  * Browser based third-party add-ons such as [uBlock Origin (ADMX guide)](ublock-origin.md).
 
 2. **E8 Template - User Application Hardening - Block Browser Advertising Strict**
 
@@ -78,8 +78,7 @@ There are 10 Group Policy Objects and a script used to import the GPOs.
 	  * Gateway or Proxy Filtering
 	  * DNS Filtering
 	  * Endpoint Solutions
-	  * Browser based third-party add-ons such as uBlock or Ad Block plus.  
-
+  	  * Browser based third-party add-ons such as [uBlock Origin (ADMX guide)](ublock-origin.md).
 3. **E8 Template - User Application Hardening - Browser Security Settings**
 
 	**Scope:** Machine<BR>This GPO has been configured with a combination of User Application Hardening Settings based on the recommendations from the following Sources:
