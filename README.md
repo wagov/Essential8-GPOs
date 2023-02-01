@@ -34,7 +34,7 @@ These policies were developed using an AD Joined Windows Server 2019 Server and 
 ## How to import the policies
 1. Download the repository zip file from this repository and extract to a machine that will used to import the Group Policy Objects.
 
-2. Open an Adminisrative PowerShell console and navigate to the scripts folder.
+2. Open an Administrative PowerShell console and navigate to the scripts folder.
 
 3. Import E8 GPOs
 	- Run the PowerShell script and enter Menu items to either import individual GPOs or all at once.
@@ -143,7 +143,7 @@ There are 10 Group Policy Objects and a script used to import the GPOs.
 1. [GPOs](GPOs)
 This folder contains backups of the E8 Group Policy Objects used by the import script.
 
-3. [scripts](scripts/Import-Essential8TemplateGPOs.ps1)
+3. [scripts](Scripts/Import-Essential8TemplateGPOs.ps1)
 This PowerShell script is used to import the E8 GPOs individually or all GPOs into Active Directory.
 		
 4. [templates](templates/)
