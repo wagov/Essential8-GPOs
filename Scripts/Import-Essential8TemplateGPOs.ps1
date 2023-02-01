@@ -8,7 +8,7 @@
     .PARAMETER
   
     .EXAMPLE
-    PS C:\> importE8GPOs.ps1        
+    PS C:\temp\Essential8-GPOs-main\Scripts> .\Import-Essential8TemplateGPOs.ps1
   
     .NOTES  
     Digital Government (DGov) - Cyber Security Unit
