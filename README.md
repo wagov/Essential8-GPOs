@@ -160,6 +160,6 @@ For additional technical reference, please see the following links used.
 Please report all bugs, issues and feature requests in the [issue tracker](https://github.com/wagov/Essential8-GPOs/issues)
 
 # WA Government Support
-For any inquires or problems within this package, please contact [cyber.policy@dpc.wa.gov.au](mailto:cyber.policy@dpc.wa.gov.au)
+For any inquires or problems within this package, please contact [cybersecurity@dpc.wa.gov.au](mailto:cybersecurity@dpc.wa.gov.au)
 
 DGov would appreciate your feedback, comments, and details of any errors you encounter while running this Hardening Package
