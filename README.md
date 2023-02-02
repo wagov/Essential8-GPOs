@@ -106,7 +106,7 @@ There are 10 Group Policy Objects and a script used to import the GPOs.
 	**Scope:** Machine<BR>This GPO contains settings to disable the use of Internet Explorer 11 as a standalone browser and redirect to Edge. Configured legacy IE11 websites will run in Edge IEMode.
 	>**Additional Configuration Required:** Organisations implementing IEMode need to:
 
-    * Generate a sitelist.xml using [Microsoft Enterprise Mode Ste List Manager](https://www.microsoft.com/en-us/download/details.aspx?id=49974)
+    * Generate a sitelist.xml using [Microsoft Enterprise Mode Site List Manager](https://www.microsoft.com/en-us/download/details.aspx?id=49974)
     * Store this file in an accessible HTTPS/Local Network Location/File Location that the user/client computer can reach
     * Configure the following custom GPO setting:
 `Microsoft Edge\Configure the Enterprise Mode Site List`
