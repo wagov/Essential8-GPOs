@@ -13,6 +13,8 @@ This package includes:
   * Web browsers do not process web advertisements from the internet.
   * Internet Explorer 11 does not process content from the internet.
   * Web browser security settings cannot be changed by users.
+ 
+>**Validation:** ACSC provide an [Essential Eight Assessment Process Guide](https://www.cyber.gov.au/acsc/view-all-content/publications/essential-eight-assessment-process-guide) as well as an Essential 8 Maturity Validation Tool (E8MVT), available to Government entities within the [ACSC Partner Portal](https://partners.cyber.gov.au/).  The E8MVT (October 2022 Version) correctly assesses Maturity Level 1 for "Configuration Microsoft Office macro settings" for these templates.  Java as part of "User application hardening" is the only control asssessed at ML1 using the E8MVT and will provide false positives for Java Version 8.  Refer to additional notes for Java Deployment Configuration File and Properties.
 
 
 ## Requirements
